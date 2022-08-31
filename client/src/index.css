@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+div {
+  white-space: normal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* spacing on all sections */
+#about,
+#languages,
+#portfolio,
+#contact,
+#blog {
+  margin-top: 4rem;
+  padding-top: 4rem;
+}
+#contact {
+  padding-bottom: 4rem;
+}
+
+/* NavBar */
+
+/* Header */
+
+.profile-picture {
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+  bottom: 0;
+}
+
+/* header image */
+#home {
+  background-color: #fefbf6;
+}
+
+.bgimage {
+  height: 100%;
+  position: relative;
+}
+
+/* text css above header image*/
+.header-text-container {
+  position: relative;
+  top: 40%;
+  left: 25%;
+  transform: translateY(-50%);
+  z-index: 10;
+  margin-top: 100px;
+}
+.header-text-container h1 {
+  font-size: 6.5vw;
+  color: gray;
+  font-weight: 800;
+}
+.header-text-container span {
+  color: #3d3c42;
+  letter-spacing: 2px;
+}
+.header-text-container p {
+  color: gray;
+  font-weight: 500;
+  font-size: 3rem;
+  letter-spacing: 1px;
+}
+
+/* About */
+
+h1 {
+  font-size: 5rem;
+  color: gray;
+  font-weight: 700;
+}
+#about h2 {
+  font-size: 2rem;
+  color: #3d3c42;
+  font-weight: 700;
+}
+#about h2 span {
+  color: #7f5283;
+}
+#about p {
+  margin-top: 3vw;
+  color: #3d3c42;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+/* about page profile image */
+.imageAboutPage {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  margin: auto;
+}
+
+/* Languages */
+
+#languages h1 {
+  font-size: 5rem;
+  color: gray;
+  font-weight: 700;
+}
+
+#languages h4 {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+/* languages section css */
+.icon-container {
+  height: 60px;
+  width: 60px;
+  padding: 3px;
+  margin: auto;
+}
+
+.servicesText.card {
+  height: 130px;
+  cursor: pointer;
+}
+.servicesIcon {
+  text-align: center;
+  width: 50px;
+  margin: auto;
+  border-radius: 50%;
+}
+.card-title {
+  text-align: center;
+}
+.card:hover .servicesIcon {
+  color: #a6d1e6;
+}
+.servicesText:hover {
+  border: 1px solid #a6d1e6;
+}
+
+/* Contact */
+
+/* contact error message */
+.errorList {
+  color: red;
+  list-style-type: none;
+  margin: 10px;
+}
+
+/* Footer */
+
+/* social media icons styling */
+.social-icons {
+  font-size: 36px;
+  cursor: pointer;
+}
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover,
+.fa-twitch:hover {
+  color: #008000;
+}
+.fab {
+  color: #000000;
+}
+/* footer styling */
+#footer {
+  background-color: #808080;
+  text-align: center;
+}
+
+#embeddedmap-display img {
+  max-height: none;
+  max-width: none !important;
+  background: none !important;
+}
