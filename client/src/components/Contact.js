@@ -17,7 +17,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch("/contacts", {
+    fetch("/api/contacts", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(contact),
