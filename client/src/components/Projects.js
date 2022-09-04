@@ -34,6 +34,8 @@ function Projects() {
                 </p>
                 <div className="text-center">
                   <a
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/reitoserizawa/zoomies"
                     className="btn btn-outline-secondary"
                     style={{ marginRight: "5px" }}
@@ -42,6 +44,8 @@ function Projects() {
                   </a>
 
                   <a
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://www.youtube.com/watch?v=U0r333t5CPE&feature=youtu.be"
                     className="btn btn-outline-secondary"
                     style={{ marginLeft: "5px" }}
@@ -73,6 +77,8 @@ function Projects() {
                 </p>
                 <div className="text-center">
                   <a
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/reitoserizawa/Tippie"
                     className="btn btn-outline-secondary"
                     style={{ marginRight: "5px" }}
@@ -81,6 +87,8 @@ function Projects() {
                   </a>
 
                   <a
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://www.youtube.com/watch?v=mhtTPhMhHZs"
                     className="btn btn-outline-secondary"
                     style={{ marginLeft: "5px" }}
@@ -116,6 +124,8 @@ function Projects() {
                 </p>
                 <div className="text-center">
                   <a
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/reitoserizawa/tipsyholic"
                     className="btn btn-outline-secondary"
                   >
@@ -146,6 +156,8 @@ function Projects() {
                 </p>
                 <div className="text-center">
                   <a
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/reitoserizawa/yoga_front"
                     className="btn btn-outline-secondary"
                     style={{ marginRight: "5px" }}
@@ -153,6 +165,8 @@ function Projects() {
                     Frontend <i className="fa-brands fa-github"></i>
                   </a>
                   <a
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/reitoserizawa/yoga_server"
                     className="btn btn-outline-secondary"
                     style={{ marginLeft: "5px" }}

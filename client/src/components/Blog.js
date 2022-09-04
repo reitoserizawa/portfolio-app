@@ -19,6 +19,8 @@ function Blog() {
               <div className="card-body">
                 <p className="card-text">The Log-in/Log-out/Sign-up Features</p>
                 <a
+                  target="_blank"
+                  rel="noreferrer"
                   href="https://medium.com/@s.reitiger/authentication-steps-for-ruby-on-rails-54affc6a0f62"
                   className="btn btn-secondary"
                 >
@@ -40,6 +42,8 @@ function Blog() {
                   update and delete
                 </p>
                 <a
+                  target="_blank"
+                  rel="noreferrer"
                   href="https://medium.com/@s.reitiger/how-to-use-the-json-formatted-data-in-ruby-and-javascript-4f7cd202886b"
                   className="btn btn-secondary"
                 >
@@ -59,6 +63,8 @@ function Blog() {
                   How Bootstrap helped my websites look awesome!
                 </p>
                 <a
+                  target="_blank"
+                  rel="noreferrer"
                   href="https://medium.com/@s.reitiger/designing-websites-with-bootstrap-852d0f783583"
                   className="btn btn-secondary"
                 >

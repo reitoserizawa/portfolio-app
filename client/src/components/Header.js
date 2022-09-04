@@ -10,11 +10,11 @@ function Header() {
     const options = {
       strings: [
         "Reito.",
-        "a Developer.",
+        "a developer.",
         "from Japan.",
-        "a Bilingual.",
-        "a Problem Solver.",
-        "a Dog Lover.",
+        "a bilingual.",
+        "a problem solver.",
+        "a dog lover.",
         "Reito.",
       ],
       typeSpeed: 50,

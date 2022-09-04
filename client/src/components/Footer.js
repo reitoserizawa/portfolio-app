@@ -30,6 +30,8 @@ function Footer() {
         <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
           <li className="ms-3">
             <a
+              target="_blank"
+              rel="noreferrer"
               className="text-muted"
               href="https://www.linkedin.com/in/reitos/"
             >
@@ -43,7 +45,12 @@ function Footer() {
             </a>
           </li>
           <li className="ms-3">
-            <a className="text-muted" href="https://twitter.com/reitotter">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              className="text-muted"
+              href="https://twitter.com/reitotter"
+            >
               <img
                 className="bi"
                 width="24"
@@ -54,7 +61,12 @@ function Footer() {
             </a>
           </li>
           <li className="ms-3">
-            <a className="text-muted" href="https://github.com/reitoserizawa">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              className="text-muted"
+              href="https://github.com/reitoserizawa"
+            >
               <img
                 src={github}
                 className="bi"
@@ -65,7 +77,12 @@ function Footer() {
             </a>
           </li>
           <li className="ms-3">
-            <a className="text-muted" href="https://medium.com/@s.reitiger">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              className="text-muted"
+              href="https://medium.com/@s.reitiger"
+            >
               <img
                 src={medium}
                 className="bi"
