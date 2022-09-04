@@ -9,13 +9,13 @@ function Header() {
   useEffect(() => {
     const options = {
       strings: [
-        "Reito",
-        "a Developer",
-        "from Japan",
-        "a Bilingual",
-        "a Bartender",
-        "a Dog Lover",
-        "Reito",
+        "Reito.",
+        "a Developer.",
+        "from Japan.",
+        "a Bilingual.",
+        "a Problem Solver.",
+        "a Dog Lover.",
+        "Reito.",
       ],
       typeSpeed: 50,
       backSpeed: 30,
@@ -34,7 +34,7 @@ function Header() {
         <div className="row">
           <div className="col-lg-5">
             <div className="header-text-container">
-              <h1>
+              <h1 className="text-center">
                 Hi, I am <br /> <span style={{ whiteSpace: "pre" }} ref={el} />
               </h1>
             </div>
