@@ -12,7 +12,7 @@ function Header() {
         "Reito.",
         "a developer.",
         "from Japan.",
-        "a bilingual.",
+        "bilingual.",
         "a problem solver.",
         "a dog lover.",
         "Reito.",

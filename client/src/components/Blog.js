@@ -68,7 +68,7 @@ function Blog() {
                   href="https://medium.com/@s.reitiger/designing-websites-with-bootstrap-852d0f783583"
                   className="btn btn-secondary"
                 >
-                  Reito
+                  Read
                 </a>
               </div>
             </div>
