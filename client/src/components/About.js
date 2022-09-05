@@ -29,8 +29,8 @@ function About() {
               Bootstrap, Figma and Photoshop for designing.
             </p>
             <p>
-              As a hard-working and result-oriented person, <br />I always work
-              hard to bring the best achievements on my projects.
+              As a result-oriented person, <br />I always work hard to bring the
+              best outcomes from my projects.
             </p>
           </div>
         </div>

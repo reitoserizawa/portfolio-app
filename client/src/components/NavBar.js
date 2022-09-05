@@ -66,8 +66,6 @@ function NavBar() {
               <a
                 target="_blank"
                 rel="noreferrer"
-                // role="button"
-                // className={scroll ? "btn btn-dark" : "btn btn-light"}
                 className="nav-link active"
                 href="https://drive.google.com/file/d/1cQd9gaV7OBXtHTcy4zeuZgnOGXcoZ_m8/view?usp=sharing"
               >
