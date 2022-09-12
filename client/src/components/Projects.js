@@ -30,7 +30,7 @@ function Projects() {
                 <hr />
                 <p className="card-text">
                   <b>Utilized</b>: JavaScript, React.js, Ruby, Ruby on Rails,
-                  Heroke, PostgreSQL, HTML/CSS, Bootstrap
+                  PostgreSQL, HTML/CSS, Bootstrap
                 </p>
                 <div className="text-center">
                   <a
@@ -73,7 +73,7 @@ function Projects() {
                 <hr />
                 <p className="card-text">
                   <b>Utilized</b>: JavaScript, React.js, Ruby, Ruby on Rails,
-                  Heroke, PostgreSQL, RESTful API, HTML/CSS, Bootstrap
+                  PostgreSQL, RESTful API, HTML/CSS, Bootstrap
                 </p>
                 <div className="text-center">
                   <a
