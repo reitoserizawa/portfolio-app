@@ -131,6 +131,15 @@ function Projects() {
                   >
                     Code <i className="fa-brands fa-github"></i>
                   </a>
+                  <a
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://youtu.be/7g4iVkyVlsk"
+                    className="btn btn-outline-secondary"
+                    style={{ marginLeft: "5px" }}
+                  >
+                    Demo <i className="fa-brands fa-youtube"></i>
+                  </a>
                 </div>
               </div>
             </div>
