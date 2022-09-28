@@ -9,6 +9,11 @@ import github from "../images/github-icon.webp";
 import api from "../images/rest-icon.jpeg";
 import command from "../images/command-icon.webp";
 import vscode from "../images/vscode-icon.png";
+import redux from "../images/redux.png";
+import postgresql from "../images/postgresql.png";
+import heroku from "../images/heroku.png";
+import bootstrap from "../images/bootstrap.png";
+import git from "../images/git.png";
 
 function Languages() {
   return (
@@ -76,11 +81,28 @@ function Languages() {
                     className="rounded mx-auto d-block servicesIcon"
                   />
                 </div>
-                <h4 className="card-title mt-2">React.js</h4>
+                <h4 className="card-title mt-2">React</h4>
               </div>
             </div>
           </div>
 
+          <div className="col-md-2 mt-4">
+            <div className="card servicesText">
+              <div className="card-body">
+                <div className="icon-container">
+                  <img
+                    src={redux}
+                    alt="redux-icon"
+                    className="rounded mx-auto d-block servicesIcon"
+                  />
+                </div>
+                <h4 className="card-title mt-2">Redux</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="row justify-content-center">
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
@@ -95,9 +117,7 @@ function Languages() {
               </div>
             </div>
           </div>
-        </div>
 
-        <div className="row justify-content-center">
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
@@ -118,6 +138,53 @@ function Languages() {
               <div className="card-body">
                 <div className="icon-container">
                   <img
+                    src={postgresql}
+                    alt="postgresql-icon"
+                    className="rounded mx-auto d-block servicesIcon"
+                  />
+                </div>
+                <h4 className="card-title mt-2">PostgreSQL</h4>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-2 mt-4">
+            <div className="card servicesText">
+              <div className="card-body">
+                <div className="icon-container">
+                  <img
+                    src={git}
+                    alt="git-icon"
+                    className="rounded mx-auto d-block servicesIcon"
+                  />
+                </div>
+                <h4 className="card-title mt-2">Git</h4>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-2 mt-4">
+            <div className="card servicesText">
+              <div className="card-body">
+                <div className="icon-container">
+                  <img
+                    src={heroku}
+                    alt="heroku-icon"
+                    className="rounded mx-auto d-block servicesIcon"
+                  />
+                </div>
+                <h4 className="card-title mt-2">Heroku</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="row justify-content-center">
+          <div className="col-md-2 mt-4">
+            <div className="card servicesText">
+              <div className="card-body">
+                <div className="icon-container">
+                  <img
                     src={github}
                     alt="css-icon"
                     className="rounded mx-auto d-block servicesIcon"
@@ -127,7 +194,6 @@ function Languages() {
               </div>
             </div>
           </div>
-
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
@@ -169,6 +235,21 @@ function Languages() {
                   />
                 </div>
                 <h4 className="card-title mt-2">VS Code</h4>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-2 mt-4">
+            <div className="card servicesText">
+              <div className="card-body">
+                <div className="icon-container">
+                  <img
+                    src={bootstrap}
+                    alt="bootstrap-icon"
+                    className="rounded mx-auto d-block servicesIcon"
+                  />
+                </div>
+                <h4 className="card-title mt-2">Bootstrap</h4>
               </div>
             </div>
           </div>
