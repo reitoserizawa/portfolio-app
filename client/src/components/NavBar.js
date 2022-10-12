@@ -67,7 +67,7 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
                 className="nav-link active"
-                href="https://drive.google.com/file/d/171vuEBpJXWb_uYU_w0O-IyXIhzdICgzx/view?usp=sharing"
+                href="https://drive.google.com/file/d/17m2hrfQQuwwh4x2lYO_Ry1tGPjfgoy3I/view?usp=sharing"
               >
                 Resume
               </a>
