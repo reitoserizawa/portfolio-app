@@ -14,6 +14,7 @@ import postgresql from "../images/postgresql.png";
 import heroku from "../images/heroku.png";
 import bootstrap from "../images/bootstrap.png";
 import git from "../images/git.png";
+import python from "../images/python-logo.png";
 
 function Languages() {
   return (
@@ -85,7 +86,9 @@ function Languages() {
               </div>
             </div>
           </div>
+        </div>
 
+        <div className="row justify-content-center">
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
@@ -100,9 +103,6 @@ function Languages() {
               </div>
             </div>
           </div>
-        </div>
-
-        <div className="row justify-content-center">
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
@@ -138,6 +138,23 @@ function Languages() {
               <div className="card-body">
                 <div className="icon-container">
                   <img
+                    src={python}
+                    alt="python-icon"
+                    className="rounded mx-auto d-block servicesIcon"
+                  />
+                </div>
+                <h4 className="card-title mt-2">Python</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="row justify-content-center">
+          <div className="col-md-2 mt-4">
+            <div className="card servicesText">
+              <div className="card-body">
+                <div className="icon-container">
+                  <img
                     src={postgresql}
                     alt="postgresql-icon"
                     className="rounded mx-auto d-block servicesIcon"
@@ -147,7 +164,6 @@ function Languages() {
               </div>
             </div>
           </div>
-
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
@@ -177,9 +193,6 @@ function Languages() {
               </div>
             </div>
           </div>
-        </div>
-
-        <div className="row justify-content-center">
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
@@ -194,6 +207,9 @@ function Languages() {
               </div>
             </div>
           </div>
+        </div>
+
+        <div className="row justify-content-center">
           <div className="col-md-2 mt-4">
             <div className="card servicesText">
               <div className="card-body">
