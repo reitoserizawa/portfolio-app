@@ -3,6 +3,8 @@ import zoomies from "../images/projects/zoomies.png";
 import tippie from "../images/projects/tippie.png";
 import tipsyholic from "../images/projects/tipsyholic.png";
 import yoga from "../images/projects/yoga.png";
+import studybuddy from "../images/projects/studybuddy.png";
+import tictactoe from "../images/projects/tictactoe.png";
 
 function Projects() {
   return (
@@ -13,6 +15,91 @@ function Projects() {
             <h1 className="text-center">Projects</h1>
           </div>
         </div>
+        <div className="row justify-content-center">
+          <div className="col-md-5 mt-4">
+            <div className="card">
+              <img
+                className="card-img-top"
+                src={studybuddy}
+                alt="Card"
+                style={{ width: "100%" }}
+              />
+              <div className="card-body">
+                <h4 className="card-title">StudyBuddy</h4>
+                <p className="card-text">
+                  A chat room app to study programming with others
+                </p>
+                <hr />
+                <p className="card-text">
+                  <b>Utilized</b>: JavaScript, Python, Django, SQLite, HTML/CSS
+                </p>
+                <div className="text-center">
+                  <a
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://github.com/reitoserizawa/python-django-studybud-project"
+                    className="btn btn-outline-secondary"
+                    style={{ marginRight: "5px" }}
+                  >
+                    Code <i className="fa-brands fa-github"></i>
+                  </a>
+
+                  <a
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://www.youtube.com/watch?v=e_fCTxD2i-c&feature=youtu.be"
+                    className="btn btn-outline-secondary"
+                    style={{ marginLeft: "5px" }}
+                  >
+                    Demo <i className="fa-brands fa-youtube"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-5 mt-4">
+            <div className="card">
+              <img
+                className="card-img-top"
+                src={tictactoe}
+                alt="Card"
+                style={{ width: "100%" }}
+              />
+              <div className="card-body">
+                <h4 className="card-title">Tic-tac-toe</h4>
+                <p className="card-text">
+                  A tic-tac-toe game created with Python.
+                </p>
+                <hr />
+                <p className="card-text">
+                  <b>Utilized</b>: Python
+                </p>
+                <div className="text-center">
+                  <a
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://github.com/reitoserizawa/python-tic-tac-toe"
+                    className="btn btn-outline-secondary"
+                    style={{ marginRight: "5px" }}
+                  >
+                    Code <i className="fa-brands fa-github"></i>
+                  </a>
+
+                  <a
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://youtu.be/PaxuSq5vU24"
+                    className="btn btn-outline-secondary"
+                    style={{ marginLeft: "5px" }}
+                  >
+                    Demo <i className="fa-brands fa-youtube"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div className="row justify-content-center">
           <div className="col-md-5 mt-4">
             <div className="card">

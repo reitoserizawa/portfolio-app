@@ -41,11 +41,11 @@ function NavBar() {
                 About
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" href="#blog">
                 Blog
               </a>
-            </li>
+            </li> */}
             <li className="nav-item">
               <a className="nav-link" href="#portfolio">
                 Projects
@@ -67,7 +67,7 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
                 className="nav-link active"
-                href="https://drive.google.com/file/d/1phVPxcOCEWu6bzCu8iOabvH8tu__nx04/view?usp=sharing"
+                href="https://drive.google.com/file/d/1inHS8qpuKbcPLBpZ7FXEJ8tced1isvqQ/view?usp=sharing"
               >
                 Resume
               </a>

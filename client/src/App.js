@@ -5,7 +5,7 @@ import About from "./components/About";
 import Languages from "./components/Languages";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import Blog from "./components/Blog";
+// import Blog from "./components/Blog";
 import Footer from "./components/Footer";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <NavBar />
       <Header />
       <About />
-      <Blog />
+      {/* <Blog /> */}
       <Projects />
       <Languages />
       <Contact />

@@ -2,7 +2,7 @@ import React from "react";
 import logo from "../images/navbar-logo/logo2.png";
 import twitter from "../images/footer/twitter.svg";
 import github from "../images/github-icon.webp";
-import medium from "../images/footer/medium.svg";
+// import medium from "../images/footer/medium.svg";
 import linkedin from "../images/footer/linkedin.svg";
 
 function Footer() {
@@ -76,7 +76,7 @@ function Footer() {
               />
             </a>
           </li>
-          <li className="ms-3">
+          {/* <li className="ms-3">
             <a
               target="_blank"
               rel="noreferrer"
@@ -91,7 +91,7 @@ function Footer() {
                 alt="medium logo"
               />
             </a>
-          </li>
+          </li> */}
         </ul>
       </footer>
     </div>
