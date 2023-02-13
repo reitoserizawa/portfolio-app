@@ -1,15 +1,16 @@
 {
   "name": "reito-portfolio",
-  "description": "Build scripts for Heroku",
   "homepage": "https://reitoserizawa.github.io/portfolio-app/",
+  "description": "Build scripts for Heroku",
   "engines": {
     "node": "16.x"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "clean": "rm -rf public",
-    "build": "npm install --prefix client && npm run build --prefix client"
+    "build": "npm install --prefix client && npm run build --prefix client",
+    "deploy": "gh-pages -d client/build",
+    "heroku-postbuild": "npm run clean && npm run build && npm run deploy",
+    "predeploy": "npm run --prefix client"
   },
   "dependencies": {
     "typed.js": "^2.0.12"
