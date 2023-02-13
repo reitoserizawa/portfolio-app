@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69808532.css",
+    "main.js": "/static/js/main.b7d068bb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/zoomies.png": "/static/media/zoomies.21041d417f79d17e9310.png",
+    "static/media/profile-image-bgblur.png": "/static/media/profile-image-bgblur.209a54375555221bdd2e.png",
+    "static/media/yoga.png": "/static/media/yoga.991ece69693bca073084.png",
+    "static/media/tippie.png": "/static/media/tippie.6adda73934e631673f2d.png",
+    "static/media/studybuddy.png": "/static/media/studybuddy.fffb270b1c5c94f47967.png",
+    "static/media/mixed-memojis.png": "/static/media/mixed-memojis.be3043b64530d0a14a81.png",
+    "static/media/tictactoe.png": "/static/media/tictactoe.8f3488ec387a87b3d4e7.png",
+    "static/media/ruby-icon.png": "/static/media/ruby-icon.76df93cf57df266746e9.png",
+    "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
+    "static/media/tipsyholic.png": "/static/media/tipsyholic.9e29541b341be4c9a08d.png",
+    "static/media/python-logo.png": "/static/media/python-logo.7fc4f0e4976a4bbdcba6.png",
+    "static/media/postgresql.png": "/static/media/postgresql.1b9b2da8d94b8c3d4a15.png",
+    "static/media/rest-icon.jpeg": "/static/media/rest-icon.18343736afce847a52e7.jpeg",
+    "static/media/logo.png": "/static/media/logo.dfd77e883af4c780b2fc.png",
+    "static/media/logo2.png": "/static/media/logo2.ee679e4d98358d6cca2e.png",
+    "static/media/vscode-icon.png": "/static/media/vscode-icon.d793c746fbc937f66e3d.png",
+    "static/media/css-icon.webp": "/static/media/css-icon.637f4040460cdc0e6bb0.webp",
+    "static/media/html-icon.png": "/static/media/html-icon.6e930594286d8afe4c79.png",
+    "static/media/react-logo.webp": "/static/media/react-logo.2a0cac33f155e4a27216.webp",
+    "static/media/bootstrap.png": "/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/github-icon.webp": "/static/media/github-icon.01eff38eed74df9221c7.webp",
+    "static/media/rails-icon.webp": "/static/media/rails-icon.819332a348bce4e90ada.webp",
+    "static/media/command-icon.webp": "/static/media/command-icon.2d9ef2d62f69a7212a94.webp",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.5ae9f4cf80c1f851b13c3fb4494b8d39.svg",
+    "static/media/js-icon.svg": "/static/media/js-icon.b879f838faf1cb951d1c2230fd933a39.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "main.69808532.css.map": "/static/css/main.69808532.css.map",
+    "main.b7d068bb.js.map": "/static/js/main.b7d068bb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69808532.css",
+    "static/js/main.b7d068bb.js"
+  ]
+}

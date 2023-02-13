@@ -1,7 +1,7 @@
 {
   "name": "reito-portfolio",
   "description": "Build scripts for Heroku",
-  "homepage": "https://reitoserizawa.github.io/",
+  "homepage": "https://reitoserizawa.github.io/portfolio-app/",
   "engines": {
     "node": "16.x"
   },
